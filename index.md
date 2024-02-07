@@ -14,3 +14,7 @@ int main() {
   return 0;
 }
 ```
+
+- [x] Added Image
+- [x] Added code snippets
+- [ ] Added Checklists
